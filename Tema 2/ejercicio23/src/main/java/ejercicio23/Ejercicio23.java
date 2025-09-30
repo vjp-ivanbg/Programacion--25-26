@@ -10,15 +10,14 @@ package ejercicio23;
  */
 import java.util.Scanner;
 public class Ejercicio23 {
-    
-    final static float Modelouno = 399.99F;
-    final static float Modelodos = 510.99F;
-    final static float Modelotres = 699.99F;
 
     public static void main(String[] args) {
         
         Scanner bienvenida = new Scanner (System.in);
-      
+        
+        System.out.println("Modelo 1-399.99");
+        System.out.println("Modelo 1-510.99");
+        System.out.println("Modelo 1-699.99");
         System.out.println("Porfavor, introduzca el precio del modelo que de ordenador que desea comprar: ");
         
         Float modelo = bienvenida.nextFloat();
