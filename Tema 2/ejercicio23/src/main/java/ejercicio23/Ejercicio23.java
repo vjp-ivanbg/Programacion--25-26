@@ -15,9 +15,9 @@ public class Ejercicio23 {
         
         Scanner bienvenida = new Scanner (System.in);
         
-        System.out.println("Modelo 1-399.99");
-        System.out.println("Modelo 2-510.99");
-        System.out.println("Modelo 3-699.99");
+        System.out.println("Modelo 1-399");
+        System.out.println("Modelo 2-510");
+        System.out.println("Modelo 3-699");
         System.out.println("Porfavor, introduzca el precio del modelo que de ordenador que desea comprar: ");
         
         Float modelo = bienvenida.nextFloat();
