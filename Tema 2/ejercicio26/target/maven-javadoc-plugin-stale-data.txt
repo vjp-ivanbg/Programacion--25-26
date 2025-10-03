@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/bueso/OneDrive/Documentos/NetBeansProjects/ejercicio26/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/bueso/OneDrive/Documentos/NetBeansProjects/ejercicio26/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ejercicio26 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ejercicio26 1.0-SNAPSHOT API'
+ejercicio26
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\src\main\java = 1759484949754
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\allclasses-index.html = 1759485673166
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\allpackages-index.html = 1759485673171
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\element-list = 1759485673099
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\help-doc.html = 1759485673227
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\index-all.html = 1759485673211
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\index.html = 1759485673220
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\member-search-index.js = 1759485673186
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\module-search-index.js = 1759485673174
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\overview-tree.html = 1759485673148
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\package-search-index.js = 1759485673175
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\search.html = 1759485673216
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\tag-search-index.js = 1759485673195
+C:\Users\bueso\OneDrive\Documentos\NetBeansProjects\ejercicio26\target\reports\apidocs\type-search-index.js = 1759485673179
