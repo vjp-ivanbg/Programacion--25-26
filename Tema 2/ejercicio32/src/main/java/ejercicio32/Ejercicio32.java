@@ -16,9 +16,8 @@ public class Ejercicio32 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Por favor, indique una cantidad de dinero: ");
         int cantidad = sc.nextInt();
-
         
-        int billetes50 = cantidad / 50;
+        int billetes50 = (cantidad / 50);
         cantidad = cantidad % 50;
         int billetes20 = cantidad / 20;
         cantidad = cantidad % 20;
