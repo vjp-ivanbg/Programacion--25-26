@@ -24,9 +24,9 @@ public class Ejercicio26 {
         int cuarta = cifra % 10;
         
         System.out.println("La primera cifra es : " + primera);
-        System.out.println("La primera cifra es : " + segunda);
-        System.out.println("La primera cifra es : " + tercera);
-        System.out.println("La primera cifra es : " + cuarta);
+        System.out.println("La segunda cifra es : " + segunda);
+        System.out.println("La tercera cifra es : " + tercera);
+        System.out.println("La cuarta cifra es : " + cuarta);
         
     }
     
