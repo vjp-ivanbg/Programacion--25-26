@@ -12,8 +12,6 @@ public class Ejercicio14 {
 
     public static void main(String[] args) {
         int cero = 0;
-        
-        
         do{
             if (cero%2 == 0){
             System.out.println(cero++);
