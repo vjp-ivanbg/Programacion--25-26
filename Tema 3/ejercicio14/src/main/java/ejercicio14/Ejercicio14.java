@@ -17,7 +17,7 @@ public class Ejercicio14 {
             System.out.println(cero++);
             }
             cero++;
-        }while (cero <= 200);
+        }while (cero < 200);
     
     }
 }
