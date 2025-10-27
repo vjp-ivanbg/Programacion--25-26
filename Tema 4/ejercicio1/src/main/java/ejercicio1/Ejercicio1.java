@@ -12,20 +12,23 @@ import java.util.Scanner;
 public class Ejercicio1 {
 
     public static void suma(int num) {
-       
-        System.out.println("porfavor introduce un numero: ");
-        
-    }
-    
-    public static void main(String[] args){
-        Scanner numero = new Scanner(System.in);
-        
-        num = numero.nextInt();
-        
-        if(num > 0) {
+         if(num > 0) {
             System.out.println("el numero introducido es positivo");
         }else {
             System.out.println("El numero introducido es negativo");
         }
+        
+        
+    }
+    public static void main(String[] args){
+        
+        
+        System.out.println("porfavor introduce un numero: ");
+        
+        Scanner numero = new Scanner(System.in);
+        
+        int num = numero.nextInt();
+        
+        suma(num);
     }
 }
